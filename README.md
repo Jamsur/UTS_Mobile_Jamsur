@@ -354,3 +354,41 @@ seedColor: Colors.blue, // Ganti dengan warna favorit
 **Built with ❤️ using Flutter**
 
 © 2025 Aplikasi Jamsur. All rights reserved.
+
+---
+
+## **UI Gallery**
+
+Berikut adalah kumpulan gambar yang ada di folder `UI/`. Ditampilkan rapi dalam grid untuk referensi desain antarmuka.
+
+<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture1.png" alt="Picture1" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture1.png</figcaption>
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture2.png" alt="Picture2" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture2.png</figcaption>
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture3.png" alt="Picture3" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture3.png</figcaption>
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture4.png" alt="Picture4" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture4.png</figcaption>
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture5.png" alt="Picture5" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture5.png</figcaption>
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture6.png" alt="Picture6" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture6.png</figcaption>
+  </figure>
+  <figure style="margin:0; text-align:center;">
+    <img src="UI/Picture7.png" alt="Picture7" width="240" />
+    <figcaption style="font-size:12px; margin-top:6px;">Picture7.png</figcaption>
+  </figure>
+</div>
+
